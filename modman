@@ -1,4 +1,4 @@
-src/app/code/community/Flagbit/OpenId src/app/code/community/Flagbit/OpenId
-src/app/design/adminhtml/default/default/template/flagbit_openid src/app/design/adminhtml/default/default/template/flagbit_openid
-src/app/etc/modules/Flagbit_OpenId.xml src/app/etc/modules/Flagbit_OpenId.xml
-src/app/locale/de_DE/Flagbit_OpenId.csv src/app/locale/de_DE/Flagbit_OpenId.csv
+src/app/code/community/Flagbit/OpenId app/code/community/Flagbit/OpenId
+src/app/design/adminhtml/default/default/template/flagbit_openid app/design/adminhtml/default/default/template/flagbit_openid
+src/app/etc/modules/Flagbit_OpenId.xml app/etc/modules/Flagbit_OpenId.xml
+src/app/locale/de_DE/Flagbit_OpenId.csv app/locale/de_DE/Flagbit_OpenId.csv
